@@ -1,0 +1,16 @@
+[
+  {
+    "scholarship_id": "SCH-2026-101",
+    "title": "AI Excellence Scholarship",
+    "eligibility": "70%+ in last academic year",
+    "amount_inr": 50000,
+    "deadline": "2026-02-28"
+  },
+  {
+    "scholarship_id": "SCH-2026-102",
+    "title": "Cybersecurity Talent Scholarship",
+    "eligibility": "Open for 1st and 2nd year students",
+    "amount_inr": 60000,
+    "deadline": "2026-03-15"
+  }
+]

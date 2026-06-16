@@ -1,0 +1,16 @@
+[
+  {
+    "tender_id": "TN-2026-002",
+    "title": "Smart City CCTV Surveillance",
+    "budget_inr": 25000000,
+    "deadline": "2026-03-05",
+    "department": "Urban Development"
+  },
+  {
+    "tender_id": "TN-2026-003",
+    "title": "Water Pipeline Maintenance",
+    "budget_inr": 12000000,
+    "deadline": "2026-02-20",
+    "department": "Municipal Services"
+  }
+]

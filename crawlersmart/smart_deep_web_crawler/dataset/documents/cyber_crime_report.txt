@@ -1,0 +1,8 @@
+Cyber Crime Report - 2026
+
+There has been a rise in phishing attacks targeting students and government employees.
+Attackers create fake login pages to steal passwords and banking OTPs.
+Recommendations:
+1. Enable two-factor authentication
+2. Avoid unknown links
+3. Conduct awareness programs in colleges
